@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "L2AIB600N8728SC"
+app = "/Users/c84040a/Downloads/app-homolog.apk"
